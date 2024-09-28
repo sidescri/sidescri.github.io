@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sidescri.github.io/sitemap.sidescri.gz
+Sitemap: https://sidescri.github.io/app/sitemap.sidescri.gz
+Sitemap: https://sidescri.github.io/assets/sitemap.sidescri.gz
+Sitemap: https://sidescri.github.io/css/sitemap.sidescri.gz
+Sitemap: https://sidescri.github.io/data/sitemap.sidescri.gz
+Sitemap: https://sidescri.github.io/includes/sitemap.sidescri.gz
+Sitemap: https://sidescri.github.io/item/sitemap.sidescri.gz
+Sitemap: https://sidescri.github.io/src/sitemap.sidescri.gz
